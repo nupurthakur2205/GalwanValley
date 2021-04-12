@@ -6,6 +6,8 @@ Javascript is also used for validation in registration page. After successful lo
 ![image](https://user-images.githubusercontent.com/52660348/114412847-1cdf6180-9bcb-11eb-9fa8-65c1e49f708b.png)
 ![image](https://user-images.githubusercontent.com/52660348/114413208-6760de00-9bcb-11eb-9672-eb2adf953990.png)
 ![image](https://user-images.githubusercontent.com/52660348/114419590-2cfa3f80-9bd1-11eb-80fe-62c76bf79056.png)
+![image](https://user-images.githubusercontent.com/52660348/114419943-7d719d00-9bd1-11eb-8c4d-a6bbe1538bb1.png)
+
 
 
 
